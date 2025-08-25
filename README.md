@@ -22,3 +22,4 @@ payroll	Monthly salary by employee and department
 monthly_expenses	Operational costs: software, tools, rent
 daily_marketing_spend	Ad spend breakdown by day
 customer_lifespan	Subscription start and churn dates
+<img width="437" height="121" alt="image" src="https://github.com/user-attachments/assets/237062cb-712c-4c54-922e-a7802bf81d15" />

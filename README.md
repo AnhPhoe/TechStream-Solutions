@@ -62,8 +62,8 @@ Improve onboarding and retention to increase LTV
 Optimize acquisition funnel or offer freemium trials to lower CAC
 
  - Skills Demonstrated
-✅ Data Cleaning & Preprocessing (Pandas)
-✅ Business Metric Modeling (CAC, LTV, etc.)
-✅ Real-World Data Simulation from Google Sheets
-✅ Documentation & Insight Communication
-✅ Reproducibility using Jupyter Notebook (.ipynb)
+- ✅ Data Cleaning & Preprocessing (Pandas)
+- ✅ Business Metric Modeling (CAC, LTV, etc.)
+- ✅ Real-World Data Simulation from Google Sheets
+- ✅ Documentation & Insight Communication
+- ✅ Reproducibility using Jupyter Notebook (.ipynb)
